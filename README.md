@@ -1,6 +1,9 @@
 ## Hello World! I'm Navy Ahmad 👋
 # About Me: 
-I am a fullstack web developer with 3 years of experience and coding has been my hobby since I was in school with a software engineering expertise competency☕.
+I am a passionate web developer who is continuously learning and improving my skills in building modern and functional web applications. I have experience working with both frontend and backend development, and I enjoy solving problems, organizing code, and creating systems that are useful and reliable.
+I am familiar with developing web-based systems, managing data, and building responsive user interfaces. I believe that good software is not only about making things work, but also about making them structured, maintainable, and easy to use.
+I am highly motivated to grow as a developer, adapt to new technologies, and take on challenges that help me become more professional in the field of software development. I value consistency, responsibility, and continuous improvement in everything I build.
+I am open to new opportunities, collaborations, and experiences that allow me to learn, contribute, and develop my career in the technology industry.
 
 
 ## 🌐 Socials:
